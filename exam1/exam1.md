@@ -132,19 +132,19 @@ state = Statevector.from_label('0+')
 plot_bloch_multivector(state)
 ```
 A.
-<img width="624" height="274" alt="image" src="https://github.com/user-attachments/assets/57163525-0bf9-4332-89e1-9a25d246f60d" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/A5a.png>
 
 B.
-<img width="624" height="274" alt="image" src="https://github.com/user-attachments/assets/2fc7ea49-cf19-4e5e-802d-7d20a06a2db1" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/A5b.png>
 
 C. 
-<img width="624" height="274" alt="image" src="https://github.com/user-attachments/assets/50f73269-b6f6-4b1f-948d-05629a239a86" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/A5c.png>
 
 D.
-<img width="624" height="274" alt="image" src="https://github.com/user-attachments/assets/61c4ed68-a839-4aa5-8152-eff9657123f7" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/A5d.png>
 
 6. Which **two** of the following code fragments generate the circuit in the picture below?
-<img width="466" height="238" alt="image" src="https://github.com/user-attachments/assets/2546fc97-7b2b-44b6-8ad0-cb0b370c3aff" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/Q6.png>
 
 A. 
 ```python
@@ -217,19 +217,19 @@ qct = pm.transpile(qc)
 ```
 
 8. Which one from the histograms below might be the ouput of this circuit?
-<img width="498" height="238" alt="image" src="https://github.com/user-attachments/assets/4f94ec9b-eb76-4441-bf28-b95c268f9052" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/Q8.png>
 
 A.
-<img width="490" height="390" alt="image" src="https://github.com/user-attachments/assets/d6e748dc-470b-4c55-8edb-0305865addea" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/A8a.png>
 
 B. 
-<img width="490" height="390" alt="image" src="https://github.com/user-attachments/assets/a1976b15-5440-4fa6-a6a2-613ddcec8aa1" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/A8b.png>
 
 C. 
-<img width="490" height="390" alt="image" src="https://github.com/user-attachments/assets/ed0de727-1895-4a17-94f3-d514def64637" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/A8c.png>
 
 D. 
-<img width="490" height="389" alt="image" src="https://github.com/user-attachments/assets/406d9d65-c9ff-4878-a584-0bff64bdcec5" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/A8d.png>
 
 9. Which is the circuit generated using the code below?
 ```python
@@ -251,16 +251,16 @@ qc.draw('mpl')
 ```
 
 A. 
-<img width="563" height="303" alt="image" src="https://github.com/user-attachments/assets/13b2628c-104a-4429-9862-35b4e419dc04" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/A9a.png>
 
 B.
-<img width="563" height="303" alt="image" src="https://github.com/user-attachments/assets/284a5da3-c3ee-45bc-885d-f27f279ac359" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/A9b.png>
 
 C. 
-<img width="563" height="303" alt="image" src="https://github.com/user-attachments/assets/5421b8fd-dada-45ee-bf62-c054e6831d57" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/A9c.png>
 
 D. 
-<img width="627" height="303" alt="image" src="https://github.com/user-attachments/assets/456358cd-7632-4c53-bbc5-b06a7d06088e" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/A9d.png>
 
 10. Which **two** are **not** proper ways to run jobs inside a bacth?
 
@@ -361,7 +361,7 @@ D.
 - Execution and retrieval  
 
 14. Having the circuit in the image using two parameters, which is the proper way to pass the Sampler the values for those parameters?
-<img width="305" height="238" alt="image" src="https://github.com/user-attachments/assets/100ea068-5cdc-43b6-8b7f-a31cb9b7ab64" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/Q14.png>
 
 A.
 ```python
@@ -404,7 +404,7 @@ job = sampler.run([(qct,parms)])
 ```
 
 15. Having the circuit in the image using two parameters, which is the proper way to pass the Estimator the values for those parameters?
-<img width="305" height="238" alt="image" src="https://github.com/user-attachments/assets/100ea068-5cdc-43b6-8b7f-a31cb9b7ab64" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/Q15.png>
 
 A.
 ```python
@@ -454,7 +454,7 @@ C. Each dimension must have the same length.
 D. Dimensions that are not provided are assumed to be zero-sized.  
 
 17. Which **two** outputs are possible when executing the code below on the circuit shown in the image?
-<img width="369" height="238" alt="image" src="https://github.com/user-attachments/assets/03c382f4-bba2-4986-b5c0-7ac30186c54f" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/Q17.png>
 
 ```python
 from qiskit_ibm_runtime import SamplerV2 
