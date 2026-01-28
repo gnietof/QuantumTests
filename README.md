@@ -1,4 +1,4 @@
-## Qiskit 2.x Practice Exams
+# Qiskit 2.x Practice Exams
 
 This is a repository where I will be adding practice tests to prepare for the IBM Qiskit 2.x exam. 
 
