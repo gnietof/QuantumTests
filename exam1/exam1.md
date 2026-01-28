@@ -77,7 +77,7 @@ D. 0.853
 E. 1  
 
 4. Which is the fragment of code which generates the following state qsphere plot?
-<img width="560" height="559" alt="image" src="https://github.com/user-attachments/assets/c7fb68a1-4ad4-470e-aed1-5e70f588ccb7" />
+<img src=https://github.com/gnietof/QuantumTests/blob/main/exam1/images/Q4.png>
 
 A. 
 ```python
