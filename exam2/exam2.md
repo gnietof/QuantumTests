@@ -336,7 +336,7 @@ E. Compilation time never counts as usage.
 
 A. At most two values: a Quantum Circuit and a target precision. 
 B. At most three values: a Quantum Circuit, a collection of parameters if parameters are being used and optionally a target precision.  
-C. At most three values: a Quantum Circuit, a collection of parameters if parameters are being used and optionally the number of shots. <-  
+C. At most three values: a Quantum Circuit, a collection of parameters if parameters are being used and optionally the number of shots.   
 D. At most four values: a Quantum Circuit, a list of one or more observables, a collection of parameters if Parameters are being used and optionally a target precision.  
 E. At most four values: a Quantum Circuit, a list of one or more observables, a collection of parameters if Parameters are being used and optionally the number of shots.  
 
