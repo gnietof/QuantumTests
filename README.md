@@ -9,7 +9,7 @@ Some questions are easy. Others are more complex even than the ones in the exam.
 
 - [Practice Exam I](./exam1/exam1.md)
 - [Practice Exam II](./exam2/exam2.md)
-- [Practice Exam III](./exam3/exam3.md)👷
+- [Practice Exam III](./exam3/exam3.md)
 
 Use them freely and, please, report any errors. **Comercial use** is **not permitted** without explicit permission from the author.
 
