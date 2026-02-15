@@ -395,7 +395,7 @@ service = QiskitRuntimeService()
 bactch = Batch.from_id(ID,service)
 ```
 
-12. How many jobs I can be submitted as part of a a batch?
+12. How many jobs can be submitted as part of a a batch?
 
 A. There is no limit to the number of jobs.  
 B. There is no limit to the number of jobs, but there is a maximum time after which no more jobs will be accepted.  
